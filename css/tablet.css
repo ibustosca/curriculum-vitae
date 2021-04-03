@@ -1,0 +1,30 @@
+.article__summarycard--body {
+    padding: 35px 20px;
+    font-size: 1.5rem;
+}
+
+.section__business, .section__awards, .section__certifications, .section__education, .section__knowledge {
+    padding-bottom: 30px;
+}
+
+.section__business--title, .section__awards--title, .section__certifications--title, .section__education--title, .section__knowledge--title {
+    margin-bottom: 30px;
+}
+
+.article__businesscard--position, .article__businesscard--title .year, .article__certificationscard--title .year, .article__educationcard--year {
+    font-size: 1.8rem;
+}
+
+.article__businesscard--body {
+    font-size: 1.5rem;
+}
+
+.section__business, .section__featured, .section__awards, .section__certifications, .section__education, .section__knowledge, .section__footer, .section__links {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+footer {
+    min-height: 250px;
+    height: auto;
+}
