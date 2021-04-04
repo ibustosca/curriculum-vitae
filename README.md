@@ -10,3 +10,8 @@ Este proyecto es Curriculum Vitae y está construido con HTML5 y CSS3 en un form
 ![image](https://user-images.githubusercontent.com/64162717/113496582-6d6f0480-94d1-11eb-9f00-e64ad0432769.png)
 ![image](https://user-images.githubusercontent.com/64162717/113496586-795ac680-94d1-11eb-8164-c6fc6204bc00.png)
 
+Puedes cambiar las imágenes, íconos o tipografía y adaptarlo a tus necesidades.
+
+La funcionalidad para descargar el Curriculum en formato PDF aun no está construída, por lo que espero en una próxima versión incluirla.
+
+Espero te sirva!
